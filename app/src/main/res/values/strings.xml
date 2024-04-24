@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Volume Calculator</string>
+    <string name="title">title</string>
+    <string name="volume_calculator">Volume Calculator</string>
+    <string name="enter_the_radius">Enter the radius</string>
+    <string name="sphere_volume">Sphere Volume</string>
+    <string name="result">Result</string>
+    <string name="calculate_volume">Calculate Volume</string>
+
+    <string name="enter_side_of_cube">Enter side of cube</string>
+    <string name="enter_base_area_of_prism">Enter base area of prism</string>
+    <string name="enter_height_of_prism">Enter Height of prism</string>
+    <string name="enter_the_side_of_cube">Enter the side of cube</string>
+    <string name="prism_volume">Prism Volume</string>
+    <string name="cube_volume">Cube Volume</string>
+    <string name="enter_radius_of_cylinder">Enter radius of cylinder</string>
+    <string name="enter_height_of_cylinder">Enter height of cylinder</string>
+    <string name="cyclinder_volume">Cyclinder Volume</string>
+    <string name="hemisphere_volume">Hemisphere Volume</string>
+    <string name="enter_base_of_pyramid">Enter base of pyramid</string>
+    <string name="enter_height_of_pyramid">Enter height of pyramid</string>
+    <string name="cylinder_volume">Cylinder Volume</string>
+    <string name="volume_of_cube">Volume of Cube</string>
+    <string name="volume_of_cylinder">Volume of Cylinder</string>
+    <string name="volume_of_hemisphere">Volume of Hemisphere</string>
+    <string name="volume_of_hexagonal_pyramid">Volume of Hexagonal Pyramid</string>
+    <string name="volume_of_prism">Volume of Prism</string>
+    <string name="volume_of_sphere">Volume of Sphere</string>
+</resources>
